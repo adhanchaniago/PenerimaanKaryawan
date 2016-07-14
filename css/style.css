@@ -1,0 +1,35 @@
+body{
+
+	margin-bottom:10px;
+	background-color:#A0A0A0;
+}
+.container{
+	width:889px;
+	background-color:#FFFFFF;
+ border:5px solid #9E9E9E; 
+padding:5px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-webkit-box-shadow:0 0 10px #000;
+ }
+.hero{
+	background:#fcfcfd;
+}
+.isihalaman{
+	background-color:#FFFFFF;
+	padding: 20px 20px 20px 20px ;
+	border-style:dotted;
+	border:1px solid #dcdcdc;
+}
+ 
+.footerweb{
+	background-color:#0080FF;
+	height:45px;
+	padding: 2px 2px 2px 2px ;
+	border:1px solid #dcdcdc;
+}
+.dialog {
+	width: 190px;
+	margin: 58px auto 0;
+	padding: 20px;
+}
